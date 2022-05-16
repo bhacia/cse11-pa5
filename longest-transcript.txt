@@ -1,0 +1,19 @@
+java Longest which argument is the longest
+argument
+
+java Longest one two three four
+three
+
+java Longest
+
+
+--------------------------------------------My Tests
+
+java Longest montaigne machiavelli cavendish
+machiavelli
+
+java Longest zelda link guardian hylian korok
+guardian
+
+java Longest daniella karla elizabeth marissa zoe brigette bridgette nina alyssa
+elizabeth
